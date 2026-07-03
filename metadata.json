@@ -1,0 +1,6 @@
+{
+  "name": "HM AI",
+  "description": "Create stunning, high-quality photos and videos from stories using free AI models and an editable timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
